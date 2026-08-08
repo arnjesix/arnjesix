@@ -10,6 +10,8 @@ trade-management tools from explicit rules.
 
 ## Current fixed-scope services
 
+- [MT5 EA specification audit — EUR 39](https://stratcorealpha.com/services/mt5-ea-specification-audit)
+- [Authorized MQL4/MQL5 source-code audit — EUR 39](https://stratcorealpha.com/services/mql-code-audit)
 - [Custom MQL5 Expert Advisor development](https://stratcorealpha.com/services/mql5-developer)
 - [MQL4/MQL5 bug fixes and bounded modifications](https://stratcorealpha.com/services/mql5-bug-fix)
 - [Authorized Pine Script to MetaTrader 5 conversion](https://stratcorealpha.com/services/pine-script-to-mt5)
