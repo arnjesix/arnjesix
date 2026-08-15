@@ -6,6 +6,7 @@ trade-management tools from explicit rules.
 - Website: [stratcorealpha.com](https://stratcorealpha.com/)
 - Public MQL5 profile: [Arnold Holm / stratcorealpha](https://www.mql5.com/en/users/stratcorealpha)
 - Engineering portfolio: [StratCoreAlpha MQL5 portfolio](https://github.com/arnjesix/stratcorealpha-mql5-portfolio)
+- Pine Script proof: [TradingView timing, alert and webhook inspectors](https://github.com/arnjesix/stratcorealpha-pine-portfolio)
 - cTrader/C# proof: [ownership, session and restart-boundary lab](https://github.com/arnjesix/stratcorealpha-ctrader-boundary-lab)
 - Contact: [contact@stratcorealpha.com](mailto:contact@stratcorealpha.com)
 
