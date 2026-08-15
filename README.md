@@ -24,6 +24,17 @@ trade-management tools from explicit rules.
 
 These are public engineering examples, not trading-performance claims.
 
+## Free diagnostic tools
+
+- [MT5 Position and Order Ownership Audit](https://github.com/arnjesix/stratcorealpha-mql5-portfolio/releases/tag/v1.5.0) — classify open exposure against one expected EA magic number before a management or recovery repair.
+- [MT5 Deal Evidence Toolkit](https://github.com/arnjesix/stratcorealpha-mql5-portfolio/releases/tag/v1.4.0) — export and compare stored tester-versus-deployment deal evidence under a fixed 19-field contract.
+- [MT5 EA Acceptance Harness](https://github.com/arnjesix/stratcorealpha-mql5-portfolio/releases/tag/v1.3.0) — run eight synthetic timing, duplicate, cooldown and daily-lock fixtures without sending trades.
+- [MT5 Cash Risk Probe](https://github.com/arnjesix/stratcorealpha-mql5-portfolio/releases/tag/v1.2.0) — inspect account-currency sizing and broker volume boundaries without placing an order.
+- [MT5 Order Preflight](https://github.com/arnjesix/stratcorealpha-mql5-portfolio/releases/tag/v1.1.0) — check hypothetical order geometry against current symbol constraints.
+
+All five utilities are read-only engineering evidence. They do not validate a
+strategy or promise execution or performance results.
+
 ## How I work
 
 1. Confirm entry, exit, risk, timing and edge-case rules.
