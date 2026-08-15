@@ -6,6 +6,7 @@ trade-management tools from explicit rules.
 - Website: [stratcorealpha.com](https://stratcorealpha.com/)
 - Public MQL5 profile: [Arnold Holm / stratcorealpha](https://www.mql5.com/en/users/stratcorealpha)
 - Engineering portfolio: [StratCoreAlpha MQL5 portfolio](https://github.com/arnjesix/stratcorealpha-mql5-portfolio)
+- cTrader/C# proof: [ownership, session and restart-boundary lab](https://github.com/arnjesix/stratcorealpha-ctrader-boundary-lab)
 - Contact: [contact@stratcorealpha.com](mailto:contact@stratcorealpha.com)
 
 ## Current fixed-scope services
@@ -21,6 +22,7 @@ trade-management tools from explicit rules.
 - [PropGuard MT5 drawdown risk dashboard](https://www.mql5.com/en/code/68087)
 - [Multi-symbol wick rejection scanner](https://www.mql5.com/en/code/68101)
 - [Modern dark-mode one-click MT5 trade panel](https://www.mql5.com/en/code/68038)
+- [cTrader boundary lab](https://github.com/arnjesix/stratcorealpha-ctrader-boundary-lab) — 15 deterministic tests for ownership, session, pending-expiry and restart-baseline policy.
 
 These are public engineering examples, not trading-performance claims.
 
