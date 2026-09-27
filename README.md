@@ -4,7 +4,7 @@
 
 ## Know before you risk.
 
-Test your trading strategy before you risk real money. I turn your rules into an MT5 bot and show you, on 12 months of real market data, exactly what it would have done, including whether it would have broken your prop firm's rules.
+Test your trading strategy before you risk real money. With frozen rules, I build an MT5 test program and show what the historical test recorded over 12 months, including which prop-rule checks the available data can answer and which remain inconclusive.
 
 [Free Strategy Rule Check](https://stratcorealpha.com/rule-check?ref=github&intent=rule-check)
 
@@ -27,7 +27,13 @@ Already have a bot that misbehaves? I also fix one reproducible MT4/MT5 defect w
 
 ## Current proof
 
-No complete strategy case has been published yet. Each case will include the frozen rules, source, full period, costs, curve and limitations.
+My published examples show the rules, source, historical test record and limits:
+
+- [Opening-range breakout](https://stratcorealpha.com/tested/opening-range-breakout?ref=github&intent=proof): one frozen EURUSD M15 strategy in the HolaPrime MT5 Strategy Tester. The named prop-rule verdict remains inconclusive because the full-year server-clock mapping was not established.
+- [London-morning proxy](https://stratcorealpha.com/tested/london-morning-breakout?ref=github&intent=proof): a separate historical MT5 case with its source, costs and failure limits.
+- [Pine versus MT5 signal comparison](https://stratcorealpha.com/tested/pine-mt5-signal-parity?ref=github&intent=proof): 507 shared EURUSD H1 bars and 16 explained differences. This compares signals, not orders or returns.
+
+Historical tests are not forecasts or proof of a prop challenge result.
 
 - [Public engineering portfolio](https://github.com/arnjesix/stratcorealpha-mql5-portfolio)
 - [Pine Script timing and alert tools](https://github.com/arnjesix/stratcorealpha-pine-portfolio)
