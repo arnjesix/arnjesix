@@ -48,6 +48,8 @@ Historical tests are not forecasts or proof of a prop challenge result.
 - [Multi-symbol wick rejection scanner](https://www.mql5.com/en/code/68101)
 - [Modern dark-mode one-click MT5 trade panel](https://www.mql5.com/en/code/68038)
 - [cTrader boundary lab](https://github.com/arnjesix/stratcorealpha-ctrader-boundary-lab) : 15 deterministic tests for ownership, session, pending-expiry and restart-baseline policy.
+- [R49 original HolaPrime Experts log](https://github.com/arnjesix/stratcorealpha-mql5-portfolio/blob/40cec1e36740872e2384fa28c223c15ec5e021fc/docs/evidence/HolaPrime_Runtime_20260924.txt): three synthetic repair cases moved from 2/3 to 3/3 in my MT5 terminal; no client-order result.
+- [E149 original HolaPrime tester log](https://github.com/arnjesix/stratcorealpha-mql5-portfolio/blob/bb9c7aa/assets/parity/E149_HolaPrime_visualizer_log_excerpt_20260925.txt): a completed-bar signal, close retcode 10009 and verified opposite tester position on generated one-minute OHLC ticks; no live order.
 
 These are public engineering examples, not trading-performance claims.
 
