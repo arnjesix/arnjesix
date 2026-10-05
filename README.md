@@ -2,24 +2,23 @@
 
 # Arnold Holm / StratCoreAlpha
 
-## Know before you risk.
+## Challenge Pre-Check · Know before you risk.
 
-Test your trading strategy before you risk real money. With frozen rules, I build an MT5 test program and show what the historical test recorded over 12 months, including which prop-rule checks the available data can answer and which remain inconclusive.
+Would your strategy have survived your prop firm's rules?
 
-[Free Strategy Rule Check](https://stratcorealpha.com/rule-check?ref=github&intent=rule-check)
+1. Send your strategy the way you trade it: text, screenshot, TradingView script, EA or video notes.
+2. Within 24 h you get a one-page rule sheet to confirm, free, always.
+3. I test it on 12 months of real data against your firm's daily-loss, max-loss and target rules. In 72 h after rule freeze and funding you know: passed, failed or broke a limit, and on which day.
 
-Still writing your rules? Start with the free Rule Check. Rules ready and you want evidence? Choose T99. You already need the deployment bot? E149 may fit without a detour. Want the test, bot and care together? CR499 is the complete path. Already have a bot with one reproducible defect? Use R49. No purchase is needed to download the rule sheet.
+[Free Challenge Pre-Check](https://stratcorealpha.com/challenge-check?ref=github&intent=challenge-check) · [Free Challenge Calculator](https://stratcorealpha.com/tools/challenge-calculator?ref=github)
 
-## Start with your rules
+Direct: first 5 traders free, next 5 €49, then €99. The live register on the offer page controls availability. Existing marketplace contacts stay on their marketplace at its catalogue price. Less than a fifth of a typical challenge fee.
 
-- **Free Strategy Rule Check (LM0):** I mark the missing decisions in one strategy. The editable rule sheet is free to download without an email address.
-- **[Strategy Reality Check (T99)](https://stratcorealpha.com/reality-check?ref=github&intent=t99): 99 EUR/USD.** One strategy, one symbol and one timeframe. An MT5 test program, three rule checks, a 12-month historical simulation and a plain-language report with limits. Delivery: 72 hours after frozen rules and funding.
-- **[Challenge-Ready Path (CR499)](https://stratcorealpha.com/challenge-ready?ref=github&intent=cr499): 499 EUR/USD.** T99, two named prop-firm overlays, the bot build, one rule-change retest and three months of Bot Care. Milestones: 149 / 200 / 150.
-- **[First-Five pilot](https://stratcorealpha.com/pilot?ref=github&intent=pilot):** The first five delivered tests cost 0. The next five cost 49 EUR/USD. After that, the standard price is 99 EUR/USD. I ask for written feedback within seven days, not a positive review. Written rules, MT5 and a planned or active challenge are required. I review eligible requests in order of arrival, with one pilot per person. A form submission does not reserve a place. The free tier is direct; existing marketplace contacts stay on their marketplace. Publication of your case is a separate, voluntary choice.
+You release payment only after you've seen the report. If it shows you nothing about your strategy you didn't already know, you get your money back. On marketplaces, payment and any refund follow the platform's escrow and refund rules.
 
-The three written acceptance cases pass or delivery is not finished. I correct a mismatch reported within seven calendar days when you supply the original inputs and a reproducible result for the same agreed case. New rules, another broker or platform, or a different defect are new scope. This covers delivery, not trading results. No refund or challenge-pass promise is added.
+After the Pre-Check: [Challenge-Ready Path (CR499)](https://stratcorealpha.com/challenge-ready?ref=github&intent=cr499) or [EA Build (E149)](https://stratcorealpha.com/services?ref=github&intent=e149), with the actual T99 amount credited once within 30 days. CR499 includes the test, two named prop overlays, bot, one rule-change retest and three months of care.
 
-This is a historical simulation under stated assumptions, not a forecast. Prices and execution can differ by feed and broker. A test cannot establish future fills, slippage or returns. Changing rules after seeing results can fit past noise. Missing intraday equity can leave a prop-rule check inconclusive. Passing the three rule cases shows that the code followed those cases; it does not mean that a challenge will pass.
+Historical simulation, not a forecast. Prices and execution can differ by feed and broker. Missing intraday equity can leave a prop-rule check inconclusive. Three agreed rule cases check implementation, not a future challenge pass.
 
 ## Existing bot owners
 
